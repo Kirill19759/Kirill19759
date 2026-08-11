@@ -1,16 +1,47 @@
-## Hi there 👋
+# Привет! Я Кирилл 👋
 
-<!--
-**Kirill19759/Kirill19759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist** с профильной магистратурой по прикладной информатике (диплом с отличием, ТГУ) и практическим опытом полного цикла ML-проектов.
 
-Here are some ideas to get you started:
+Ищу позицию **Data Scientist / Junior Data Scientist**, где смогу применять машинное обучение для решения бизнес-задач.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Что умею
+
+- Полный цикл работы с данными: сбор → очистка → EDA → feature engineering → моделирование → оценка → выводы
+- Классический ML: scikit-learn, XGBoost, LightGBM, CatBoost
+- Глубокое обучение: PyTorch
+- Анализ данных и визуализация: pandas, NumPy, matplotlib, seaborn, Plotly
+- SQL, Git, Jupyter
+- Понимание IT-инфраструктуры (опыт системного администрирования и поддержки)
+
+---
+
+### 🚀 Проекты
+
+| Проект | Описание | Стек | Ссылка |
+|--------|----------|------|--------|
+| **Анализ рынка труда** | Анализ вакансий hh.ru для соискателей с инвалидностью (Томская область). EDA, статистический анализ, регрессионные модели предсказания зарплаты | Python, pandas, scikit-learn, XGBoost, seaborn | [Репозиторий](https://github.com/Kirill19759/hh-vacancies-analysis-tomsk) |
+| **Магистерская диссертация** | Исследование и разработка торговой стратегии на основе анализа данных | Python, pandas, NumPy | *скоро* |
+
+---
+
+### 🛠 Технический стек
+
+`Python` `SQL` `Git` `Jupyter` `pandas` `NumPy` `scikit-learn` `XGBoost` `PyTorch` `matplotlib` `seaborn`
+
+---
+
+### 🎓 Образование
+
+- **Магистратура** — Прикладная информатика, Томский государственный университет (диплом с отличием)
+- Профессиональная переподготовка по ИИ и машинному обучению
+- Курс «Математика для Data Science»
+
+---
+
+### 📫 Контакты
+
+- GitHub: [github.com/Kirill19759](https://github.com/Kirill19759)
+- Telegram: *напиши свой ник*
+- Email: *напиши свой email*
