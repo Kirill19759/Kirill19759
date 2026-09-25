@@ -26,7 +26,8 @@
 
 |Задача|Что сделано|Ссылка|
 |---|---|---|
-|Приоритет целевых действий по логам визитов|Очистка, признаки, сравнение моделей, значимость признаков, простой API. Лучшие результаты по ROC-AUC выше 0,75 на выбранной валидации|[sber-avtopodpiska-ml](https://github.com/Kirill19759/sber-avtopodpiska-ml)|
+|Приоритет входящих заявок|Демо-сервис: загрузка CSV, оценка вероятности, группа приоритета, выгрузка|[lead-priority-demo](https://github.com/Kirill19759/lead-priority-demo)|
+|Приоритет целевых действий по логам визитов|Очистка, признаки, сравнение моделей, значимость признаков, простой API|[sber-avtopodpiska-ml](https://github.com/Kirill19759/sber-avtopodpiska-ml)|
 |Разбор рынка вакансий региона|Исследование, регрессия зарплаты, выводы для найма|[hh-vacancies-analysis-tomsk](https://github.com/Kirill19759/hh-vacancies-analysis-tomsk)|
 |Проверка торговой идеи на истории|Бэктест и проверка на следующих отрезках времени. Не инвестиционная рекомендация|[trading-strategy-research](https://github.com/Kirill19759/trading-strategy-research)|
 
