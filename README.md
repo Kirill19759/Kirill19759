@@ -5,7 +5,7 @@
 
 Екатеринбург · удалённо · фиксированный срок и стоимость · чек самозанятого
 
-Связь: [Telegram @tagiltsev_ml](https://t.me/tagiltsev_ml) · tagiltsev.ml@gmail.com
+Связь: [Telegram @tagiltsev_ml](https://t.me/tagiltsev_ml) · tagiltsev.ml@mail.ru
 
 ---
 
@@ -48,5 +48,5 @@ Python, SQL, pandas, NumPy, scikit-learn, XGBoost, LightGBM, CatBoost, PyTorch, 
 ## Контакты
 
 - Telegram: [@tagiltsev_ml](https://t.me/tagiltsev_ml)
-- Почта: tagiltsev.ml@gmail.com
+- Почта: tagiltsev.ml@mail.ru
 - GitHub: [github.com/Kirill19759](https://github.com/Kirill19759)
