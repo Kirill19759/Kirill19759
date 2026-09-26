@@ -26,8 +26,8 @@
 
 |Задача|Что сделано|Ссылка|
 |---|---|---|
+|Удержание клиентов|Кабинет: план контактов на неделю, причина, учебный телефон. Вход demo / tagiltsev-ml|[открыть кабинет](https://churn-risk-demo-ejkdaowl5d3hqsm2xyccx8.streamlit.app/) · [код](https://github.com/Kirill19759/churn-risk-demo)|
 |Приоритет входящих заявок|Демо-сервис: загрузка CSV, оценка, группа, выгрузка|[lead-priority-demo](https://github.com/Kirill19759/lead-priority-demo)|
-|Риск ухода клиента|Демо-сервис: база клиентов, оценка риска, группы, выгрузка очереди контакта|[churn-risk-demo](https://github.com/Kirill19759/churn-risk-demo)|
 |Приоритет целевых действий по логам визитов|Очистка, признаки, сравнение моделей, простой API|[sber-avtopodpiska-ml](https://github.com/Kirill19759/sber-avtopodpiska-ml)|
 |Разбор рынка вакансий региона|Исследование, регрессия зарплаты, выводы для найма|[hh-vacancies-analysis-tomsk](https://github.com/Kirill19759/hh-vacancies-analysis-tomsk)|
 |Проверка торговой идеи на истории|Бэктест и проверка на следующих отрезках времени. Не инвестиционная рекомендация|[trading-strategy-research](https://github.com/Kirill19759/trading-strategy-research)|
